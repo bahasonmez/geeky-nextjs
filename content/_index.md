@@ -1,13 +1,13 @@
 ---
 banner:
-  title: Welcome **!**
-  title_small: "to John Bravo's Blog"
-  content: Are Developer and recently started your own business Already made website to ensure presence wants to develop.
+  title: Hoş Geldin **!**
+  title_small: "Sağlık 4.0 resmi web sayfası"
+  content: Biz Sağlığı Teknolojiyle birleştirerek Bir adım öne götürmeyi hedefleyen bir kulübüz
   image_enable: true
   image: /images/banner-author.png
   button:
     enable: true
-    label: Know About Me
+    label: Daha fazla bilgi için Tıkla
     link: /about
     rel: ""
 
@@ -21,7 +21,7 @@ promotion:
   link: "#"
 
 recent_posts:
-  title: Recent Posts
+  title: Yeni Yeni sıcak Haberler
   enable: true
 
 ---
